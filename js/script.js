@@ -1,4 +1,4 @@
-let buttonTest;
+const buttonTest;
 {
   buttonTest = document.getElementById('button-test');
   buttonRock = document.getElementById('button-rock');
